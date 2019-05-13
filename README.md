@@ -1,5 +1,5 @@
 # sb-camel-rabbitmq-kafka
-Spring Boot app with camel route consuming message from rabbitmq and call http rest endpoint and produce message to kafka
+Spring Boot app with camel routes. It consuming message from rabbitmq that trigger a call to http rest endpoint and get data and produce message to kafka
 
 
 Setup on Mac OS:
