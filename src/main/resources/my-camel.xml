@@ -10,7 +10,7 @@
   <property name="username" value="guest"/>
   <property name="password" value="guest"/>
 </bean>
-<bean id="resource" class="comd.my.demo.sbcamelrabbitmqkafka.processor.ResourceProcessor"/>
+<bean id="resource" class="com.my.demo.sbcamelrabbitmqkafka.processor.ResourceProcessor"/>
 
 <camelContext id="SampleCamel" xmlns="http://camel.apache.org/schema/spring">
   <dataFormats>
